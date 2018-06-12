@@ -1,1 +1,15 @@
-[{"EmployeeID":1,"FirstName":"Narayanan","LastName":"Devaraj Naidu","DateOfBirth":"1990-01-01T00:00:00","Designation":"TeamLeadAzureWorks"},{"EmployeeID":3,"FirstName":"John","LastName":"Milton","DateOfBirth":"1995-01-01T00:00:00","Designation":"Team Leader Azure"},{"EmployeeID":4,"FirstName":"Michael","LastName":"Vire","DateOfBirth":"1980-01-01T00:00:00","Designation":"Senior Manager"}]
+{
+  "employees": [
+    {"EmployeeID":1,"FirstName":"Narayanan","LastName":"Devaraj Naidu","DateOfBirth":"1990-01-01T00:00:00","Designation":"TeamLeadAzureWorks"},
+    {"EmployeeID":3,"FirstName":"John","LastName":"Milton","DateOfBirth":"1995-01-01T00:00:00","Designation":"Team Leader Azure"},
+    {"EmployeeID":4,"FirstName":"Michael","LastName":"Vire","DateOfBirth":"1980-01-01T00:00:00","Designation":"Senior Manager"}
+  ],
+  "location": [
+    { "id": 1, "city": "usa", "address": "main street,620001" },
+    { "id": 2, "city": "canada", "address": "miller street,92FAZ1" }
+ 
+  ],
+  "aunki": {
+    "name": "aunki corp"
+  }
+}
